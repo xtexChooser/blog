@@ -1,0 +1,57 @@
+title: xtex's Blog
+subtitle: 'Mojang, YES!'
+description: xtex's Blog
+keywords:
+author: xtex
+language: zh-cn
+timezone: Asia/Shanghai
+
+url: https://xtexx.ml/blog
+root: /blog/
+permalink: :year/:month/:day-:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: false
+
+skip_render:
+
+new_post_name: :title.md
+auto_spacing: true
+external_link:
+  enable: true
+  field: site
+  exclude:
+filename_case: 1 # Lower Case File Name
+
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+default_category: uncategorized
+category_map:
+tag_map:
+
+meta_generator: 
+  charset: utf-8
+
+theme: hermes
+
+sitemap:
+  tags: true
+  categories: true
+
+alias:
+  github: https://github.com/xtexChooser/blog/
+
+feed:
+  type: [ atom, rss2 ]
+  path: [ atom.xml, feed.xml ]
+  limit: 20
+
+archive_generator:
+  per_page: 30
+  yearly: true
+  monthly: true
+
+relative_link: true
