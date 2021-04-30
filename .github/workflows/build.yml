@@ -15,6 +15,12 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
 
+      - name: Cache Node Modules
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: node-${{ hashFiles('package.json', 'package-lock.json') }}
+
       - name: Install
         run: npm install
 
