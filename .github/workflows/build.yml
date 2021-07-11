@@ -1,4 +1,4 @@
-name: Build
+https://ci.appveyor.com/project/electron-bot/devtron/branch/mastername: Build
 
 on:
   push:
