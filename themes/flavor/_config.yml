@@ -3,10 +3,10 @@ icon: icon.png
 
 # 标题右上角链接
 links:
-    Blog: /
+    Home: /
     Archive: archives/
-    Feed: atom.xml
-    About: about/
+# 链接是否需要大写
+links_uppercase: false
 
 # 版权显示的起始年份，可选
 copyright_startyear: 2021
@@ -16,8 +16,8 @@ license:
     name: CC BY-SA 4.0 协议
     link: https://creativecommons.org/licenses/by-sa/4.0/deed.zh
 
-# 文章简介长度
-excerpt_length: 100
+# 文章自动截取的简介长度
+excerpt_length: 200
 
 # Archive页面的格式
 archive_date_format: MM-DD
