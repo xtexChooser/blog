@@ -116,3 +116,8 @@ MESA3D的开源协议：
 - 2021.4.9：在MCBBS发布（链接:[在不支持OpenGL3.2的设备上用软件渲染玩1.17 - 游戏技巧 - Minecraft(我的世界)中文论坛 - (mcbbs.net)](https://www.mcbbs.net/thread-1189935-1-1.html)）
 
 - 2021.8.23：转发到Blog
+
+### 你知道吗
+
+- 本文在MCBBS上发布的时间比本Blog建立还要早
+- 在本文在MCBBS发布两个月后我就换新电脑了
