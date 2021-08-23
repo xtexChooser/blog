@@ -42,6 +42,7 @@ theme_config:
   links:
     Blog: /
     Archive: archives/
+    Random: random.html
     Feed: atom.xml
     About: about/
   links_uppercase: true
