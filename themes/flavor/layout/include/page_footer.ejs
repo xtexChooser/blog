@@ -1,0 +1,5 @@
+<div class="page_footer">
+	<span class="copyright"><%= (theme.copyright_startyear ? theme.copyright_startyear + " - " : "") + new Date().getFullYear() %> <a href="<%- config.url %>"><%= config.author %></a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/xtexChooser/hexo-theme-flavor" target="_blank">Flavor Theme</a>.</span><br/>
+	<span class="license"><%- __("license") %> <a href="<%= theme.license.link %>" rel="nofollow noopener"><%= theme.license.name %></a></span>
+</div>
+<%- include('html_footer') %>

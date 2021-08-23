@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "hexo": "^5.0.0",
+    "hexo-admonition": "^1.1.2",
     "hexo-bilibili-card": "0.0.7",
     "hexo-browsersync": "^0.3.0",
     "hexo-generator-alias": "^1.0.0",
@@ -25,9 +26,7 @@
     "hexo-generator-tag": "^1.0.0",
     "hexo-html-minifier": "^1.0.0",
     "hexo-renderer-ejs": "^1.0.0",
-    "hexo-renderer-marked": "^4.0.0",
-    "hexo-renderer-pug": "^1.0.0",
-    "hexo-renderer-scss": "^1.2.0",
+    "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "object-assign": "^4.1.1",

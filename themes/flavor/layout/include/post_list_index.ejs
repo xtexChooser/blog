@@ -1,0 +1,9 @@
+<div class="post post_list post_list_index">
+	<% page.posts.each(function(post) { %>
+		<div class="post post_item post_item_index">
+			<h2 class="title_h2"><a class="title_link" href="<%- url_for(post.path) %>"><%= post.title %></a></h2>
+			<%- include("post_info", { post: post }) %>
+			<p class="excerpt"><%= post.excerpt ? post.excerpt : (post._content.length > theme.excerpt_length) ? post._content.substring(0, theme.excerpt_length) : post._content %></p>
+		</div>
+	<% }) %>
+</div>

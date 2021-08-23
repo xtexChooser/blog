@@ -1,0 +1,8 @@
+<div class="pager pager_post">
+	<% if(page.prev) { %>
+		<a class="prev" href="<%- url_for(page.prev.path) %>"><%= __("post_prev") %>
+	<% } %>
+	<% if(page.next) { %>
+		<a class="next" href="<%- url_for(page.next.path) %>"><%= __("post_next") %>
+	<% } %>
+</div>

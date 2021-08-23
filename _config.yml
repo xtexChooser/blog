@@ -1,5 +1,5 @@
 title: xtex's Blog
-subtitle: 'Mojang, YES!'
+subtitle: 'Service Unavailable'
 description: xtex's Blog
 keywords:
 author: xtex
@@ -8,14 +8,14 @@ timezone: Asia/Shanghai
 
 url: https://xtexx.ml/blog
 root: /blog/
-permalink: :year/:month/:day-:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: false
 
 skip_render:
 
-new_post_name: :title.md
+new_post_name: :YYYY/:MM/:DD/:title.md
 auto_spacing: true
 external_link:
   enable: true
@@ -35,7 +35,7 @@ tag_map:
 meta_generator: 
   charset: utf-8
 
-theme: hermes
+theme: flavor
 
 sitemap:
   tags: true
@@ -55,3 +55,24 @@ archive_generator:
   monthly: true
 
 relative_link: true
+
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '''""'
+  plugins:
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-sub
+    - markdown-it-sup
+  anchors:
+    level: 2
+    collisionSuffix: '_'
+    permalink: true
+    permalinkClass: header-anchor
+    permalinkSymbol: '§ '

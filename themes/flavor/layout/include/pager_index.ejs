@@ -1,0 +1,8 @@
+<div class="pager pager_index">
+	<% if(page.prev_link) { %>
+		<a class="prev" href="<%- page.prev_link %>"><%= __("pager_prev") %>
+	<% } %>
+	<% if(page.next_link) { %>
+		<a class="next" href="<%- page.next_link %>"><%= __("pager_next") %>
+	<% } %>
+</div>

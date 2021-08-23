@@ -1,18 +1,18 @@
-# 在不支持OpenGL3.2的设备上用软件渲染玩MC1.17
+---
+title: 在不支持OpenGL3.2的设备上用软件渲染玩MC1.17
+excerpt: 不支持OpenGL3.2又不是不能玩了嗷
+---
 
 **注意：**
 因为使用了软件渲染，对CPU的负担会加重，所以游戏可能会变卡
 
-## 关于远古版
-
-过老的版本（远古版）在此方法设置后将无法启动
-测试：
-
-- rd-132211（目前可下载最老版本）：不可启动
-- 4k（2009/12/1，old_alpha）：可启动但黑屏
-- b1.4（2011/3/30发布，old_beta）：可启动
-- 1.12：可启动
-- 21w13a：可启动
+!!! warning "过老的版本（远古版）在此方法设置后将无法启动"
+    测试：
+    - rd-132211（目前可下载最老版本）：不可启动
+        - 4k（2009/12/1，old_alpha）：可启动但黑屏
+        - b1.4（2011/3/30发布，old_beta）：可启动
+        - 1.12：可启动
+        - 21w13a：可启动
 
 ## 起因
 
@@ -36,8 +36,14 @@
 Mesa3D：[https://github.com/pal1000/mesa-dist-win/releases](https://github.com/pal1000/mesa-dist-win/releases)
 
 打开之后下载[mesa3d-21.0.2-release-mingw.7z](https://github.com/pal1000/mesa-dist-win/releases/download/21.0.2/mesa3d-21.0.2-release-mingw.7z)（展开最新构建的Assets就能找到了）
-大陆地区需要**魔法**
-（Tip：CPU若不支持SSE3指令集需要使用MSVC构建并配置额外的环境变量，64位需要AVX指令集支持（AVX指令集要求是不应该的，pal1000已向上游汇报此问题，在[mesa#4437](https://gitlab.freedesktop.org/mesa/mesa/-/issues/4437), [mesa#3860](https://gitlab.freedesktop.org/mesa/mesa/-/issues/3860), [MINGW-packages#7530](https://github.com/msys2/MINGW-packages/issues/7530)）
+
+!!! note
+
+    大陆地区需要**魔法**
+
+!!! note ""
+
+    CPU若不支持SSE3指令集需要使用MSVC构建并配置额外的环境变量，64位需要AVX指令集支持（AVX指令集要求是不应该的，pal1000已向上游汇报此问题，在[mesa#4437](https://gitlab.freedesktop.org/mesa/mesa/-/issues/4437), [mesa#3860](https://gitlab.freedesktop.org/mesa/mesa/-/issues/3860), [MINGW-packages#7530](https://github.com/msys2/MINGW-packages/issues/7530)
 
 #### 没有魔法？
 
@@ -74,7 +80,7 @@ MESA_GL_VERSION_OVERRIDE=4.6COMPAT
 MESA_GLSL_VERSION_OVERRIDE=460
 ```
 
-**修改环境变量的方法自己百度：[比如这个](https://jingyan.baidu.com/article/00a07f3876cd0582d128dc55.html)，[或者这个](http://www.xitongcheng.com/jiaocheng/win10_article_30595.html)，****没有的可以自己创建**
+**修改环境变量的方法自己百度：[比如这个](https://jingyan.baidu.com/article/00a07f3876cd0582d128dc55.html)，[或者这个](http://www.xitongcheng.com/jiaocheng/win10_article_30595.html)，没有的可以自己创建**
 
 ## 感谢
 
@@ -113,9 +119,11 @@ MESA3D的开源协议：
 
 ## 本文历史
 
-- 2021.4.9：在MCBBS发布（链接:[在不支持OpenGL3.2的设备上用软件渲染玩1.17 - 游戏技巧 - Minecraft(我的世界)中文论坛 - (mcbbs.net)](https://www.mcbbs.net/thread-1189935-1-1.html)）
+- 2021.4.9：在MCBBS发布（链接:[在不支持OpenGL3.2的设备上用软件渲染玩1.17](https://www.mcbbs.net/thread-1189935-1-1.html)）
 
 - 2021.8.23：转发到Blog
+
+- 2021.8.23：添加简介
 
 ### 你知道吗
 

@@ -1,1 +1,0 @@
-https://github.com/claymcleod/hexo-theme-hermes/

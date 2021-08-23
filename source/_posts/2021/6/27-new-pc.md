@@ -1,5 +1,6 @@
 ---
 title: 我的新电脑
+excerpt: 好耶！我有新的电脑了！
 ---
 
 好耶！我有新的电脑了！
@@ -89,10 +90,22 @@ MC很爽，开了光影（SEUS Renewed）还有近60帧（1.17）
 
 # 槽点
 
-**Gradle用不了啊啊啊啊啊**
+**Gradle用不了啊啊啊啊啊**（Update 2021.8.23: 是由于FAT FS引起的，Gradle已修复）
 
-node-gyp也有点问题不过是由hexo-renderer-scss引起的（[Issue in node-gyp]([Python syntax error when using node-gyp@3.8.0 · Issue #2451 · nodejs/node-gyp (github.com)](https://github.com/nodejs/node-gyp/issues/2451))|[Issue in hexo-renderer-scss](https://github.com/mamboer/hexo-renderer-scss/issues/13)|[Issue in hexo-renderer-sass](https://github.com/knksmith57/hexo-renderer-sass/issues/44)）
+node-gyp也有点问题不过是由hexo-renderer-scss引起的（[Issue in node-gyp](https://github.com/nodejs/node-gyp/issues/2451)|[Issue in hexo-renderer-scss](https://github.com/mamboer/hexo-renderer-scss/issues/13)|[Issue in hexo-renderer-sass](https://github.com/knksmith57/hexo-renderer-sass/issues/44)）
 
 # 无关内容
 
 其实这篇blog是在6月27的但是写到一半就停了，拖到期末考试结束7月7才写完
+
+## 本文历史
+
+- 2021.6.27：编写本文
+
+- 2021.7.7：写完本文
+
+- 2021.8.23：添加简介
+
+- 2021.8.23：添加本历史段
+
+- 2021.8.23：Gradle问题已修复
