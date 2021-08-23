@@ -3,13 +3,13 @@ icon: icon.png
 
 # 标题右上角链接
 links:
-    Home: /
-    Archive: archives/
+#    Home: /
+#    Archive: archives/
 # 链接是否需要大写
 links_uppercase: false
 
 # 版权显示的起始年份，可选
-copyright_startyear: 2021
+#copyright_startyear: 2021
 
 # 授权协议名和链接
 license:
