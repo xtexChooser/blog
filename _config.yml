@@ -22,6 +22,7 @@ external_link:
   field: site
   exclude:
 filename_case: 1 # Lower Case File Name
+updated_option: date
 
 index_generator:
   path: ''
@@ -36,6 +37,20 @@ meta_generator:
   charset: utf-8
 
 theme: flavor
+theme_config:
+  icon: icon.png
+  links:
+    Blog: /
+    Archive: archives/
+    Feed: atom.xml
+    About: about/
+  links_uppercase: true
+  copyright_startyear: 2021
+  license:
+    name: CC BY-SA 4.0 协议
+    link: https://creativecommons.org/licenses/by-sa/4.0/deed.zh
+  excerpt_length: 200
+  archive_date_format: MM-DD
 
 sitemap:
   tags: true
@@ -76,3 +91,29 @@ markdown:
     permalink: true
     permalinkClass: header-anchor
     permalinkSymbol: '§ '
+
+all_minifier: true
+js_concator:
+  enable: false
+html_minifier:
+  enable: true
+  ignore_error: false
+  silent: false
+  exclude: []
+css_minifier:
+  enable: true
+  silent: false
+  exclude: []
+js_minifier:
+  enable: true
+  mangle: true
+  silent: false
+  exclude: []
+image_minifier:
+  enable: true
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false
+  silent: false
