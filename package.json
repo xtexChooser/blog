@@ -28,9 +28,11 @@
     "hexo-generator-redirect": "^1.4.0",
     "hexo-generator-sitemap": "^2.1.0",
     "hexo-generator-tag": "^1.0.0",
+    "hexo-renderer-ejs": "^1.0.0",
     "hexo-renderer-markdown-it": "^5.0.0",
+    "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
-    "hexo-theme-flavor": "^1.1.1",
+    "hexo-theme-flavor": "^1.1.2",
     "object-assign": "^4.1.1",
     "request": "^2.88.2"
   }
