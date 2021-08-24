@@ -52,6 +52,17 @@ theme_config:
     link: https://creativecommons.org/licenses/by-sa/4.0/deed.zh
   excerpt_length: 200
   archive_date_format: MM-DD
+  before_body_end: '
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?65f3d3b959460c6941d7d6a797086e30";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+  '
 
 sitemap:
   tags: true
