@@ -35,7 +35,7 @@ jobs:
 
       - name: Tencent Cloud COS Action
         uses: TencentCloud/cos-action@v1
-        if: github.event_name == "push"
+        if: ${{ github.event_name == "push" }}
         with:
           secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
           secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
