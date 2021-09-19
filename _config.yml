@@ -15,7 +15,7 @@ pretty_urls:
 
 skip_render:
 
-new_post_name: :YYYY/:MM/:DD/:title.md
+new_post_name: :YYYY/:MM/:DD-:title.md
 auto_spacing: true
 external_link:
   enable: true
