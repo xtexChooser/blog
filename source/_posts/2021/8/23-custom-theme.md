@@ -1,7 +1,7 @@
 ---
 title: 我的自制Hexo主题
 excerpt: 一个由忘写Front-Matter导致的主题
-date: 2021/8/23
+date: 2021-8-23
 ---
 
 **直到目前，本Blog还在使用这个主题**

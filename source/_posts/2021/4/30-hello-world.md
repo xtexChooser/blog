@@ -1,7 +1,7 @@
 ---
 title: Hello World
 excerpt: Blog降临人间
-date: 2021/4/30
+date: 2021-4-30
 ---
 
 ## 本页历史
