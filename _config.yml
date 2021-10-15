@@ -8,7 +8,7 @@ timezone: Asia/Shanghai
 
 url: https://xtexx.ml/blog
 root: /blog/
-permalink: :title/
+permalink: :year/:i_month/:i_day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: false
