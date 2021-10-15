@@ -53,7 +53,7 @@ date: 2021-04-30 21:08:45
 - [MCMOD百科](https://center.mcmod.cn/61698/)
 - [维基百科](https://zh.wikipedia.org/wiki/User:XtexChooser)
 - [爱发电](http://afdian.net/@xtexx)
-- [MediaWiki]([https://www.mediawiki.org/wiki/User:XtexChooser)
+- [MediaWiki](https://www.mediawiki.org/wiki/User:XtexChooser)
 - [Gitee](https://gitee.com/xtex)
 - [奇葩栖息地](https://mh.wdf.ink/wiki/用户:XtexChooser)
 - [存档计划](https://lakeus.xyz/wiki/User:XtexChooser)
