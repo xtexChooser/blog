@@ -37,6 +37,8 @@ date: 2021-04-30 21:08:45
 - 茶馆QQ群
 - [CA](https://ca.projectxero.top/)内测区/讨论区
 - 卡德纳传说
+- [YertinMC](https://github.com/YertinMC/)
+- [Unknown Domain Games](https://github.com/UnknownDomainGames/)
 - 也可以是下文列出的账户列表
 
 ## 账户
@@ -57,6 +59,7 @@ date: 2021-04-30 21:08:45
 - [Gitee](https://gitee.com/xtex)
 - [奇葩栖息地](https://mh.wdf.ink/wiki/用户:XtexChooser)
 - [存档计划](https://lakeus.xyz/wiki/User:XtexChooser)
+- [Minecraft Wiki EN](https://minecraft.fandom.com/wiki/User:XtexChooser)
 
 ## 本页历史
 
