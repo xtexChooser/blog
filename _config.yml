@@ -53,7 +53,8 @@ theme_config:
   excerpt_length: 200
   archive_date_format: MM-DD
   before_body_end: '
-"<script type=\"text/javascript\" src=\"https://s9.cnzz.com/z_stat.php?id=1280473022&web_id=1280473022\"></script>"
+"<script type=\"text/javascript\" src=\"https://web-stat.jiguang.cn/web-janalytics/scripts/janalytics-web.min.js\"></script>\n"
++"<script type=\"text/javascript\">window.JAnalyticsInterface.init({appkey: \"4a1e791a9691bd4ffc2ee3c8\"});</script>"
   '
 
 sitemap:
