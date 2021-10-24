@@ -93,8 +93,8 @@ MESA_GLSL_VERSION_OVERRIDE=460
 
 #### 关于Mesa3D
 
->  官方描述：Open source implementations of [OpenGL]([OpenGL - The Industry Standard for High Performance Graphics](https://www.opengl.org/)), [OpenGL ES](https://www.khronos.org/opengles/), [Vulkan](https://www.khronos.org/vulkan/), [OpenCL](https://www.khronos.org/opencl/), and more!
-> （翻译：开源的[OpenGL]([OpenGL - The Industry Standard for High Performance Graphics](https://www.opengl.org/))、[OpenGL ES](https://www.khronos.org/opengles/)、[Vulkan](https://www.khronos.org/vulkan/)、[OpenCL](https://www.khronos.org/opencl/)及更多的实现）
+>  官方描述：Open source implementations of [OpenGL](https://www.opengl.org/), [OpenGL ES](https://www.khronos.org/opengles/), [Vulkan](https://www.khronos.org/vulkan/), [OpenCL](https://www.khronos.org/opencl/), and more!
+> （翻译：开源的[OpenGL](https://www.opengl.org/)、[OpenGL ES](https://www.khronos.org/opengles/)、[Vulkan](https://www.khronos.org/vulkan/)、[OpenCL](https://www.khronos.org/opencl/)及更多的实现）
 
 MESA3D的开源协议：
 
