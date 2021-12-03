@@ -6,6 +6,8 @@ date: 2021-8-23
 
 **直到目前，本Blog还在使用这个主题**
 
+[xtexChooser/hexo-theme-flavor on GitHub](https://github.com/xtexChooser/hexo-theme-flavor)
+
 ## 起因
 
 今天中午补档了一个4月9日那篇关于OpenGL3.2 软件渲染的文章，然后GitHub Actions和Vercel构建都失败了
