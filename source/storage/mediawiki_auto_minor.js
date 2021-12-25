@@ -1,3 +1,6 @@
+// Add mw.loader.load('https://backup.blog.xtexx.ml/storage/mediawiki_auto_minor.js');
+// Please use backup domain only because the main domain could not response ContentType correctly.
+
 if(document.querySelectorAll("#wpMinoredit").length != 0) {
   document.querySelectorAll("#wpMinoredit")[0].click()
 }
