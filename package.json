@@ -31,7 +31,7 @@
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-renderer-stylus": "^2.0.1",
-    "hexo-server": "^2.0.0",
+    "hexo-server": "^3.0.0",
     "hexo-theme-flavor": "^1.1.2",
     "object-assign": "^4.1.1",
     "request": "^2.88.2"
