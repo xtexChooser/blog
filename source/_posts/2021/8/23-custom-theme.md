@@ -30,7 +30,13 @@ date: 2021-8-23
 
 ## 使用
 
-等我把主题单独分离出来再说，忘了的话记得提醒我
+见[README#use](https://github.com/xtexChooser/hexo-theme-flavor#use)
+
+简而言之：
+
+1. `npm install --save hexo-theme-flavor hexo-renderer-ejs hexo-renderer-stylus`
+2. 改`_config.yml`的`theme`成`flavor`
+3. 写`theme_config`
 
 ## 本文历史
 
