@@ -34,7 +34,7 @@ date: 2021-04-30 21:08:45
 你可以在这找到我：
 
 - [xtexx.ml](https://xtexx.ml/)
-- 茶馆QQ群
+- MCW茶馆QQ群
 - [CA](https://ca.projectxero.top/)内测区/讨论区
 - 卡德纳传说
 - [YertinMC](https://github.com/YertinMC/)
@@ -49,9 +49,10 @@ date: 2021-04-30 21:08:45
 - *QQ
 - *[GitHub](https://github.com/xtexChooser/)
 - *[xtex@xtexx.ml](mailto:xtex@xtexx.ml), *zbwxtex@qq.com, *myzbw@outlook.com, xtexchooser@gmail.com, zbwxtex@139.com
-- Gravatar（以上方中除了zbwxtex@139.com的所有邮箱）
 - *[哔哩哔哩](https://space.bilibili.com/103770515)
+- Misskey：*@xtexChooser@neko.ci, @xtexChooser@wxw.cat
 - *[MCBBS](https://www.mcbbs.net/?2495325)
+- Gravatar（以上方中除了zbwxtex@139.com的所有邮箱）
 - [MCMOD百科](https://center.mcmod.cn/61698/)
 - [维基百科](https://zh.wikipedia.org/wiki/User:XtexChooser)
 - [爱发电](http://afdian.net/@xtexx)
@@ -59,6 +60,7 @@ date: 2021-04-30 21:08:45
 - [Gitee](https://gitee.com/xtex)
 - [奇葩栖息地](https://mh.wdf.ink/wiki/用户:XtexChooser)
 - [存档计划](https://lakeus.xyz/wiki/User:XtexChooser)
+- Mastodon：@xtexChooser@wxw.moe
 - [Minecraft Wiki EN](https://minecraft.fandom.com/wiki/User:XtexChooser)
 
 ## 本页历史
