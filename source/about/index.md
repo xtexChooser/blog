@@ -5,7 +5,7 @@ date: 2021-04-30 21:08:45
 
 ## 关于我
 
-我是xtex，初二学生
+我，xtex，初二学生
 
 - [Arctic Code Vault Contributor](https://archiveprogram.github.com/)
 - GitHub Developer Program Member
@@ -13,20 +13,22 @@ date: 2021-04-30 21:08:45
 
 平常喜欢Coding，Minecraft
 
+偶尔玩玩别的游戏（UnCiv、Mindustry、SCP：SL之类的
+
 ## 能力
 
 ~~平时一般~~我能开发的^(几乎)^全部
 
 - Gradle+Java+(~~Groovy~~Kotlin)
 - Makefile+(cmake)+C/C++
-- HTML+CSS/~~SCSS~~Stylus+Webpack
+- HTML+CSS/~~SCSS~~Stylus+Webpack+~~Vue~~React
 - Node.js
 - Minecraft Mod in Fabric
 - Minecraft Plugin in Bukkit
 - Minecraft Plugin in NukkitX
 - Minecraft DataPack
 - Minecraft ResourcePack
-- LCEDA
+- LCEDA/KiCAD
 - X86 Assembly
 
 ## 联系
@@ -51,6 +53,7 @@ date: 2021-04-30 21:08:45
 - *[xtex@xtexx.ml](mailto:xtex@xtexx.ml), *zbwxtex@qq.com, *myzbw@outlook.com, xtexchooser@gmail.com, zbwxtex@139.com
 - *[哔哩哔哩](https://space.bilibili.com/103770515)
 - Misskey：*@xtexChooser@neko.ci, @xtexChooser@wxw.cat
+- Matrix：*@xtexChooser@sakura.ci
 - *[MCBBS](https://www.mcbbs.net/?2495325)
 - Gravatar（以上方中除了zbwxtex@139.com的所有邮箱）
 - [MCMOD百科](https://center.mcmod.cn/61698/)
