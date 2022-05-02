@@ -74,7 +74,6 @@ date: 2021-04-30 21:08:45
 | ------------------------------------------------------------ | --------------- | ------------------------------------ |
 | [命令助手](https://gitee.com/projectxero/ca)                 | i18n style(WIP) | PR#1 PR#5                            |
 | [mirai](https://github.com/mamoe/mirai)                      | style           | #2000                                |
-| [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA/)       | feat(WIP)       | #322                                 |
 | [梗体中文](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) | feat            | #229 #230                            |
 | [ImHex](https://github.com/WerWolv/ImHex)                    | i18n feat fix   | #303 #305 #316 #343 #406 #463        |
 | [Enigma](https://github.com/FabricMC/Enigma)                 | i18n            | #441                                 |
