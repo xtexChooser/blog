@@ -21,7 +21,7 @@ date: 2021-04-30 21:08:45
 
 - Gradle+Java+(~~Groovy~~Kotlin)
 - Makefile+(cmake)+C/C++
-- HTML+CSS/~~SCSS~~Stylus+Webpack+~~Vue~~React
+- HTML+CSS/~~SCSS~~Stylus+Webpack+~~Vue~~~~React
 - Node.js
 - Minecraft Mod in Fabric
 - Minecraft Plugin in Bukkit
@@ -65,21 +65,6 @@ date: 2021-04-30 21:08:45
 - [存档计划](https://lakeus.xyz/wiki/User:XtexChooser)
 - Mastodon：@xtexChooser@wxw.moe
 - [Minecraft Wiki EN](https://minecraft.fandom.com/wiki/User:XtexChooser)
-
-## 贡献
-
-此处仅列出我（以PR方式）贡献过的开源项目。（逃
-
-| Name                                                         | Type            | Ref                                  |
-| ------------------------------------------------------------ | --------------- | ------------------------------------ |
-| [命令助手](https://gitee.com/projectxero/ca)                 | i18n style(WIP) | PR#1 PR#5                            |
-| [mirai](https://github.com/mamoe/mirai)                      | style           | #2000                                |
-| [梗体中文](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack) | feat            | #229 #230                            |
-| [ImHex](https://github.com/WerWolv/ImHex)                    | i18n feat fix   | #303 #305 #316 #343 #406 #463        |
-| [Enigma](https://github.com/FabricMC/Enigma)                 | i18n            | #441                                 |
-| [PanguEngine](https://github.com/UnknownDomainGames/PanguEngine) | *               | member/#60/#85/#87/#90/Foundation #1 |
-| [hexojs/site](https://github.com/hexojs/site)                | docs            | #1689                                |
-| [HMCL](https://github.com/huanghongxun/HMCL)                 | feat            | #931 #770                            |
 
 ## 本页历史
 

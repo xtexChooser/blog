@@ -131,3 +131,7 @@ kroki:
       after: 0
       # see https://mermaid-js.github.io/mermaid/#/theming
       fragment: "%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ff0000'}}}%%"
+
+include_markdown:
+  dir: source
+  verbose: false
