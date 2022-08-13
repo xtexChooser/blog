@@ -19,7 +19,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ~/.npm
-          key: node-${{ hashFiles('package.json', 'package-lock.json') }}
+          key: node-${{ hashFiles('package.json', 'package-lock.json') }}-2
 
       - name: Install
         run: npm install
