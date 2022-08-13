@@ -22,7 +22,7 @@ jobs:
           key: node-${{ hashFiles('package.json', 'package-lock.json') }}-2
 
       - name: Install yarn
-        run: npm -g yarn
+        run: npm -g install yarn
 
       - name: Install
         run: yarn
