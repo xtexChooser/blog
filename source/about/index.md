@@ -5,15 +5,16 @@ date: 2021-04-30 21:08:45
 
 ## 关于我
 
-我，xtex，初二学生
+我，xtex，初三学生
 
 - [Arctic Code Vault Contributor](https://archiveprogram.github.com/)
 - GitHub Developer Program Member
-- ~专业白嫖各种云服务~
+- GitHub Global Compaus
+- ~~专业白嫖各种云服务~~
 
 平常喜欢Coding，Minecraft
 
-偶尔玩玩别的游戏（UnCiv、Mindustry、SCP：SL之类的
+偶尔玩玩别的游戏（UnCiv、Mindustry、SCP：SL之类的）
 
 ## 能力
 
@@ -28,10 +29,12 @@ date: 2021-04-30 21:08:45
 - Minecraft Plugin in NukkitX
 - Minecraft DataPack
 - Minecraft ResourcePack
-- LCEDA/KiCAD
+- ~~LCEDA~~KiCAD
 - X86 Assembly
 
 ## 联系
+
+对于一般的联系，见 [Contact](./contact)。
 
 你可以在这找到我：
 
@@ -41,6 +44,7 @@ date: 2021-04-30 21:08:45
 - 卡德纳传说
 - [YertinMC](https://github.com/YertinMC/)
 - [Unknown Domain Games](https://github.com/UnknownDomainGames/)
+- [DN42](../dn42)
 - 也可以是下文列出的账户列表
 
 ## 账户
