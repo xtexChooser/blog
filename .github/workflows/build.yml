@@ -21,11 +21,14 @@ jobs:
           path: ~/.npm
           key: node-${{ hashFiles('package.json', 'package-lock.json') }}-2
 
+      - name: Install yarn
+        run: npm -g yarn
+
       - name: Install
-        run: npm install
+        run: yarn
 
       - name: Build
-        run: npm run build
+        run: yarn build
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
