@@ -14,7 +14,9 @@ date: 2021-04-30 21:08:45
 
 平常喜欢Coding，Minecraft
 
-偶尔玩玩别的游戏（UnCiv、Mindustry、SCP：SL之类的）
+偶尔玩玩别的游戏（UnCiv、Mindustry、~~SCP：SL~~之类的）
+
+目前在用openSUSE Tumbleweed服务器在用Debian Sid~~（灵车漂移~~
 
 ## 能力
 
