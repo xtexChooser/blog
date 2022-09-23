@@ -1,5 +1,5 @@
 title: xtex's Blog
-subtitle: 'Service Unavailable'
+subtitle: "Service Unavailable"
 description: xtex's Blog
 keywords:
 author: xtex
@@ -25,7 +25,7 @@ filename_case: 1 # Lower Case File Name
 updated_option: date
 
 index_generator:
-  path: ''
+  path: ""
   per_page: 10
   order_by: -date
 
@@ -33,7 +33,7 @@ default_category: uncategorized
 category_map:
 tag_map:
 
-meta_generator: 
+meta_generator:
   charset: utf-8
 
 theme: flavor
@@ -43,7 +43,6 @@ theme_config:
     Blog: /
     Archive: archives/
     Random: random.html
-    Feed: atom.xml
     About: about/
   links_uppercase: true
   copyright_startyear: 2021
@@ -52,6 +51,7 @@ theme_config:
     link: https://creativecommons.org/licenses/by-sa/4.0/deed.zh
   excerpt_length: 200
   archive_date_format: MM-DD
+  after_copyright: '"<a href=\"/blog/atom.xml\">RSS Feed</a> <a href=\"/blog/status/\">Status</a> <a href=\"/blog/github/\">GitHub</a></br>"'
 #  before_body_end: '
 #"<script type=\"text/javascript\" src=\"https://web-stat.jiguang.cn/web-janalytics/scripts/janalytics-web.min.js\"></script>\n"
 #+"<script type=\"text/javascript\">window.JAnalyticsInterface.init({appkey: \"4a1e791a9691bd4ffc2ee3c8\"});</script>"
@@ -62,11 +62,13 @@ sitemap:
   categories: true
 
 alias:
-  github: https://github.com/xtexChooser/blog/
+  github/: https://github.com/xtexChooser/
+  upptime/: https://upptime.xtexx.ml/
+  status/: https://upptime.xtexx.ml/
 
 feed:
-  type: [ atom, rss2 ]
-  path: [ atom.xml, feed.xml ]
+  type: [atom, rss2]
+  path: [atom.xml, feed.xml]
   limit: 20
 
 archive_generator:
@@ -92,10 +94,10 @@ markdown:
     - markdown-it-sup
   anchors:
     level: 2
-    collisionSuffix: '_'
+    collisionSuffix: "_"
     permalink: true
     permalinkClass: header-anchor
-    permalinkSymbol: '§ '
+    permalinkSymbol: "§ "
 
 all_minifier: true
 js_concator:
@@ -121,12 +123,12 @@ kroki:
   server: "https://kroki.io/"
   link: "localLink"
   outputFormat: "svg"
-  className: 'kroki'
+  className: "kroki"
   inserts:
     - diagram: plantuml
       after: 1
       # see https://plantuml.com/en/theme
-      fragment: '!theme sketchy-outline'
+      fragment: "!theme sketchy-outline"
     - diagram: mermaid
       after: 0
       # see https://mermaid-js.github.io/mermaid/#/theming
