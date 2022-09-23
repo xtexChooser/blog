@@ -1,7 +1,7 @@
 ---
 title:  Burble DN42 Ping Challenge
 excerpt: Burble Ping Challenge的解题思路（
-date: 2028-2-21
+date: 2022-8-21
 ---
 
 [Ping Challenge | burble.dn42 ](https://dn42.burble.com/services/ping/)的解题思路
