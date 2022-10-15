@@ -7,7 +7,7 @@ date: 2021-04-30 21:08:45
 
 我，xtex，初三学生
 
-- [Arctic Code Vault Contributor](https://archiveprogram.github.com/)
+- [GitHub 2020 Archive Program Arctic Code Vault Contributor](https://archiveprogram.github.com/)
 - GitHub Developer Program Member
 - GitHub Global Compaus
 - ~~专业白嫖各种云服务~~
@@ -22,10 +22,11 @@ date: 2021-04-30 21:08:45
 
 ~~平时一般~~我能开发的^(几乎)^全部
 
-- Gradle+Java+(~~Groovy~~Kotlin)
-- Makefile+(cmake)+C/C++
+- Gradle+Java+Groovy~~Kotlin
+- Makefile+cmake+C/C++
 - HTML+CSS/~~SCSS~~Stylus+Webpack+~~Vue~~~~React
 - Node.js
+- Rust
 - Minecraft Mod in Fabric
 - Minecraft Plugin in Bukkit
 - Minecraft Plugin in NukkitX
@@ -56,11 +57,11 @@ date: 2021-04-30 21:08:45
 - *[Minecraft Wiki ZH](https://minecraft.fandom.com/zh/wiki/User:XtexChooser)
 - *QQ
 - *[GitHub](https://github.com/xtexChooser/)
-- *[xtex@xtexx.ml](mailto:xtex@xtexx.ml), *[zbwxtex@qq.com](mailto:zbwxtex@qq.com), *[myzbw@outlook.com](mailto:myzbw@outlook.com), [xtexchooser@gmail.com](mailto:xtexchooser@gmail.com), [zbwxtex@139.com](mailto:zbwxtex@139.com))
+- *[xtex@xtexx.ml](mailto:xtex@xtexx.ml), *[zbwxtex@qq.com](mailto:zbwxtex@qq.com), *[myzbw@outlook.com](mailto:myzbw@outlook.com), [xtexchooser@gmail.com](mailto:xtexchooser@gmail.com), [zbwxtex@139.com](mailto:zbwxtex@139.com)
 - *[哔哩哔哩](https://space.bilibili.com/103770515)
-- Misskey：*@xtexChooser@neko.ci, @xtexChooser@wxw.cat
+- ActivityPub：*@xtexChooser@neko.ci, @xtexChooser@wxw.cat, @xtexChooser@wxw.moe
 - Matrix：*@xtexChooser@sakura.ci
-- *[MCBBS](https://www.mcbbs.net/?2495325)
+- [MCBBS](https://www.mcbbs.net/?2495325)
 - Gravatar（以上方中除了zbwxtex@139.com的所有邮箱）
 - [MCMOD百科](https://center.mcmod.cn/61698/)
 - [维基百科](https://zh.wikipedia.org/wiki/User:XtexChooser)
@@ -69,7 +70,6 @@ date: 2021-04-30 21:08:45
 - [Gitee](https://gitee.com/xtex)
 - [奇葩栖息地](https://mh.wdf.ink/wiki/用户:XtexChooser)
 - [存档计划](https://lakeus.xyz/wiki/User:XtexChooser)
-- Mastodon：@xtexChooser@wxw.moe
 - [Minecraft Wiki EN](https://minecraft.fandom.com/wiki/User:XtexChooser)
 
 ## 本页历史
