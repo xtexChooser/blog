@@ -19,7 +19,7 @@
     "hexo-filter-kroki": "^2.1.8",
     "hexo-filter-mathjax": "^0.9.0",
     "hexo-generator-alias": "^1.0.0",
-    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-index": "^3.0.0",
