@@ -69,7 +69,7 @@ date: 2021-04-30 21:08:45
 - *[GitHub](https://github.com/xtexChooser/)
 - *[xtex@xtexx.ml](mailto:xtex@xtexx.ml), *[xtexChooser@duck.com](mailto:xtexChooser@duck.com), *[zbwxtex@qq.com](mailto:zbwxtex@qq.com), *[myzbw@outlook.com](mailto:myzbw@outlook.com), [xtexchooser@gmail.com](mailto:xtexchooser@gmail.com), [zbwxtex@139.com](mailto:zbwxtex@139.com)
 - *[哔哩哔哩](https://space.bilibili.com/103770515)
-- ActivityPub：*@xtexChooser@neko.ci, @xtexChooser@wxw.cat, @xtexChooser@wxw.moe, @xtexChooser@funkwhale.it, @xtexChooser@peertube.io
+- ActivityPub：*@xtexChooser@neko.ci, @xtexChooser@wxw.cat, @xtexChooser@wxw.moe, @xtexChooser@funkwhale.it, ~~@xtexChooser@peertube.io~~, @xtexChooser@diode.zone
 - Matrix：*@xtexChooser@sakura.ci
 - [MCBBS](https://www.mcbbs.net/?2495325)
 - Gravatar（以上方中除了zbwxtex@139.com的所有邮箱）
