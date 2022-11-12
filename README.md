@@ -1,6 +1,5 @@
-# Blog
+# xtex's Blog
 
-这是我的博客源码，目前有两个部署URL：
+The blog of xtex.
 
-- [https://xtexx.ml/blog/](https://xtexx.ml/blog/)（推荐）
-- [xtex's Blog](https://backup.blog.xtexx.ml/)（Vercel）
+Deployed at [blog.xtexx.ml](https://blog.xtexx.ml/)
