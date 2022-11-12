@@ -1,12 +1,12 @@
 title: xtex's Blog
-subtitle: "Service Unavailable"
+subtitle: "xtex's Multicast Service"
 description: xtex's Blog
 keywords:
 author: xtex
 language: zh-cn
 timezone: Asia/Shanghai
 
-url: https://xtexx.ml/blog
+url: https://blog.xtexx.ml/
 root: /blog/
 permalink: :year/:i_month/:i_day/:title/
 permalink_defaults:
@@ -51,7 +51,7 @@ theme_config:
     link: https://creativecommons.org/licenses/by-sa/4.0/deed.zh
   excerpt_length: 200
   archive_date_format: MM-DD
-  after_copyright: '"<a href=\"/blog/atom.xml\">RSS Feed</a> <a href=\"/blog/status/\">Status</a> <a href=\"/blog/github/\">GitHub</a></br>"'
+  after_copyright: '"<a href=\"/atom.xml\">RSS Feed</a> <a href=\"/status/\">Status</a> <a href=\"/github/\">GitHub</a></br>"'
 #  before_body_end: '
 #"<script type=\"text/javascript\" src=\"https://web-stat.jiguang.cn/web-janalytics/scripts/janalytics-web.min.js\"></script>\n"
 #+"<script type=\"text/javascript\">window.JAnalyticsInterface.init({appkey: \"4a1e791a9691bd4ffc2ee3c8\"});</script>"
