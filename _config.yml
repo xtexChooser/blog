@@ -63,8 +63,7 @@ sitemap:
 
 alias:
   github/: https://github.com/xtexChooser/
-  upptime/: https://upptime.xtexx.ml/
-  status/: https://upptime.xtexx.ml/
+  status/: https://status.xtexx.ml/
 
 feed:
   type: [atom, rss2]
