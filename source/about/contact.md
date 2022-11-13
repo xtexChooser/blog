@@ -1,17 +1,21 @@
+---
+title: Contact
+---
+
 # Contact
 
 更详细的列表请见 [关于页](./)。
 
 - [GitHub](https://github.com/xtexChooser/)
 - [xtex@xtexx.ml](mailto:xtex@xtexx.ml), [xtexChooser@duck.com](mailto:xtexChooser@duck.com), [zbwxtex@qq.com](mailto:zbwxtex@qq.com), [myzbw@outlook.com](mailto:myzbw@outlook.com)
-- ActivityPub: @xtexChooser@neko.ci
-- Matrix: @xtexChooser@sakura.ci
+- @xtexChooser@neko.ci(Misskey)
+- @xtexChooser@sakura.ci(Matrix)
 
 ## Keys
 
 ### GPG
 
-Fingerprint: `43D55EC7285804D1E9FEAAFB978F2E760D9DB0EB`
+Fingerprint is `43D55EC7285804D1E9FEAAFB978F2E760D9DB0EB`
 
 ```ASN.1
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -80,4 +84,3 @@ MApe
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC9Xq225dYzTPQLc3ixSeRSlaq/8pSTAVI+flvSMMApe zbwxtex@qq.com
 ```
-
