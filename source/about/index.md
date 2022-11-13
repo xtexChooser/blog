@@ -49,7 +49,7 @@ date: 2021-04-30 21:08:45
 
 ## 联系
 
-对于一般的联系，见 [Contact](./contact)。
+对于一般的联系，见 [Contact](./contact.html)。
 
 你可以在这找到我：
 
@@ -88,7 +88,7 @@ date: 2021-04-30 21:08:45
 
 ## GPG/SSH
 
-可以使用GPG或SSH Key确认我的身份，见 [Contact](./contact#Keys)。
+可以使用GPG或SSH Key确认我的身份，见 [Contact](./contact.html#Keys)。
 
 ## 本页历史
 
