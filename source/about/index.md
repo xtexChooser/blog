@@ -18,6 +18,8 @@ date: 2021-04-30 21:08:45
 
 目前就读于阳春市启贤实验学校
 
+[主页](https://xtexx.ml/)
+
 ## 能力
 
 ~~平时一般~~我能开发的^(几乎)^全部
@@ -71,6 +73,8 @@ date: 2021-04-30 21:08:45
 - *[哔哩哔哩](https://space.bilibili.com/103770515)
 - ActivityPub：*@xtexChooser@neko.ci, @xtexChooser@wxw.cat, @xtexChooser@wxw.moe, @xtexChooser@funkwhale.it, ~~@xtexChooser@peertube.io~~, @xtexChooser@diode.zone
 - Matrix：*@xtexChooser@sakura.ci
+- [Chitang's Gitea](https://gitea.chitang.dev/xtex/)
+- [Source Moew](https://source.moe/xtex)
 - [MCBBS](https://www.mcbbs.net/?2495325)
 - Gravatar（以上方中除了zbwxtex@139.com的所有邮箱）
 - [MCMOD百科](https://center.mcmod.cn/61698/)
